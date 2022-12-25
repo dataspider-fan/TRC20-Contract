@@ -1,0 +1,9 @@
+/build
+/scripts
+/src
+/test
+
+.env
+.env.PRIVATE_KEY_MAINNET
+.env.PRIVATE_KEY_SHASTA
+.env.PRIVATE_KEY_NILE
